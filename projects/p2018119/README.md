@@ -18,7 +18,7 @@
 | 11 | Κατασκευή του βιβλίου Β | | |
 | 12 | Τελική αναφορά* | | |
 
-# [Omada](https://github.com/METSK)
+# [Ομάδα](https://github.com/METSK)
 
 # METSK
 
